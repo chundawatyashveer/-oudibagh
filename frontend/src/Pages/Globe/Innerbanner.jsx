@@ -1,5 +1,5 @@
 import React from 'react';
-import bannerImage1 from '../../assets/images/background/banner-image-1.jpg'
+import bannerImage1 from '../../assets/images/background/banner-image-1.JPG';
 
 const Innerbanner = ({ title, bannerImage }) => {
   return (

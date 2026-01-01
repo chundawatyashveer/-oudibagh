@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../assets/images/logo.png';
-import footerImg1 from '../../assets/images/resource/footer-img-1.jpg';
-import footerImg2 from '../../assets/images/resource/footer-img-2.jpg';
+import footerImg1 from '../../assets/images/resource/footer-img-1.JPG';
+import footerImg2 from '../../assets/images/resource/footer-img-2.JPG';
 
 const Footer = () => {
   return (

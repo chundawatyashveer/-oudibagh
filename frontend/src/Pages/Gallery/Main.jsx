@@ -6,7 +6,7 @@ import Hiddenbar from '../Globe/Hiddenbar'
 import Innerbanner from '../Globe/Innerbanner'
 import Contactinfo from './Contactinfo'
 import Footer from '../Globe/Footer'
-import bannerImage4 from '../../assets/images/background/banner-image-4.jpg'
+import bannerImage4 from '../../assets/images/background/banner-image-4.JPG'
 import Scrolltop from '../Globe/scrolltop'
 
 const Main = () => {
