@@ -2,7 +2,7 @@ import React from 'react'
 
 import hygienic from '../../assets/images/resource/hygienic.png';
 import ambiance from '../../assets/images/resource/ambiance.png';
-import image1 from '../../assets/images/resource/iimage-1.JPG';
+import image1 from '../../assets/images/resource/image-1.JPG';
 
 const Story = () => {
   return (
