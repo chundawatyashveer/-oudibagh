@@ -1100,6 +1100,14 @@
 		padding: 0;
 	}
 
+	/* Menu responsive fonts */
+	.menu-card-style .dish-block h6 {
+		font-size: 16px;
+	}
+
+	.menu-card-style .text.desc {
+		font-size: 14px;
+	}
 
 	/* chef */
 	.chef-selection .content-col .inner{
@@ -1319,6 +1327,12 @@
     font-size: 12px !important;
   }
 
+  /* Testimonials title responsive for Samsung Galaxy A51/F */
+  .testimonials-section .title-box h2 {
+    font-size: 45px !important;
+    line-height: 1.2em;
+  }
+
   /* ...existing code... */
 }
 
@@ -1443,6 +1457,11 @@
     justify-content: center;
     width: 100%;
     margin-top: 5px;
+  }
+
+  /* Testimonials responsive font */
+  .testimonials-section .quote-text {
+    font-size: 1rem !important;
   }
 
   /* Services Section Typography - Mobile */
